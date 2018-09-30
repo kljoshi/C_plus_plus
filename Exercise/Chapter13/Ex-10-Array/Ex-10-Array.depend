@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1537641501 source:c:\users\kapil\desktop\starting_out_with_c++\exercise\chapter13\ex-10-array\main.cpp
+	<iostream>
+	"Array.h"
+
+1537640156 c:\users\kapil\desktop\starting_out_with_c++\exercise\chapter13\ex-10-array\include\array.h
+
+1537641463 source:c:\users\kapil\desktop\starting_out_with_c++\exercise\chapter13\ex-10-array\src\array.cpp
+	<iostream>
+	"Array.h"
+	<cstdlib>
+

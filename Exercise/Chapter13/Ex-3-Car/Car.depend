@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1536609234 source:c:\users\kapil\desktop\starting_out_with_c++\exercise\chapter13\ex-3-car\main.cpp
+	<iostream>
+	<string>
+	"Car.h"
+
+1536609362 c:\users\kapil\desktop\starting_out_with_c++\exercise\chapter13\ex-3-car\include\car.h
+	<string>
+
+1536609234 source:c:\users\kapil\desktop\starting_out_with_c++\exercise\chapter13\ex-3-car\src\car.cpp
+	"Car.h"
+	<string>
+

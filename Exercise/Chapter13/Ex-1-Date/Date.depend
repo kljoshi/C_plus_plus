@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1535728367 source:c:\users\kapil\desktop\starting_out_with_c++\exercise\chapter13\date\src\date.cpp
+	"Date.h"
+	<iostream>
+	<string>
+
+1535728760 c:\users\kapil\desktop\starting_out_with_c++\exercise\chapter13\date\include\date.h
+	<string>
+

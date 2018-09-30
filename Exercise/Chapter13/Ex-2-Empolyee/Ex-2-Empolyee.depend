@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1536003717 source:c:\users\kapil\desktop\starting_out_with_c++\exercise\chapter13\ex-2-empolyee\main.cpp
+	<iostream>
+	<string>
+	"Employee.h"
+
+1536003567 c:\users\kapil\desktop\starting_out_with_c++\exercise\chapter13\ex-2-empolyee\include\employee.h
+	<string>
+
+1536003792 source:c:\users\kapil\desktop\starting_out_with_c++\exercise\chapter13\ex-2-empolyee\src\employee.cpp
+	"Employee.h"
+	<string>
+

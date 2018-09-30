@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1536726782 source:c:\users\kapil\desktop\starting_out_with_c++\exercise\chapter13\personal\main.cpp
+	<iostream>
+	<string>
+	"Personal.h"
+
+1536726835 c:\users\kapil\desktop\starting_out_with_c++\exercise\chapter13\personal\include\personal.h
+	<string>
+
