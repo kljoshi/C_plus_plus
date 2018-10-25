@@ -71,17 +71,32 @@ using namespace std;
 
 int main(){
 	int size = 7;
+	float hours = 0;
+	bool condition = false;
 	Payroll p[size];
 
+	// Get the hours worked from the user.
+	for(int i=0; i<size; i++){
 
-	p[0].setHoursWorked(40);
-	p[0].setHourlyRate(50);
+		do{
+			cout << "Please enter the hours worked for worker " << i+1 << " :";
+			cin >> hours;
+			if(hours > 60){
+				cout << " Can not accept more than 60 hours" << endl;
+				condition = true;
+			}
+			else
+				condition = false;
+		}while(condition);
+		
+		p[i].hoursWorked(hours);
+		p[i].hourlyRate(10.00);
+	}
 
-	float total = p[0].calculateTotal();
-
-	cout << "Total : " << total << endl;
-
-
+	// Display the amount earned.
+	for(int j =0; j < size; j++){
+		cout << "Worker " << i+1 << " earned : "<< p[i].calculateTotal();
+	}
 
 	return 0;
 }

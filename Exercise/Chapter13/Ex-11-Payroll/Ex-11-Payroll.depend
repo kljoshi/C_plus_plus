@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1540514102 source:c:\users\kapil\desktop\c++\c_plus_plus\exercise\chapter13\ex-11-payroll\src\payroll.cpp
+	"Payroll.h"
+
+1540514077 c:\users\kapil\desktop\c++\c_plus_plus\exercise\chapter13\ex-11-payroll\include\payroll.h
+
+1540514149 source:c:\users\kapil\desktop\c++\c_plus_plus\exercise\chapter13\ex-11-payroll\main.cpp
+	<iostream>
+	"Payroll.h"
+
