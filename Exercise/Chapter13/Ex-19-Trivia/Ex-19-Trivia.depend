@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1540667334 source:c:\users\kapil\desktop\c++\c_plus_plus\exercise\chapter13\ex-19-trivia\main.cpp
+	<iostream>
+	<string>
+	"Question.h"
+	<fstream>
+
+1540667410 c:\users\kapil\desktop\c++\c_plus_plus\exercise\chapter13\ex-19-trivia\include\question.h
+	<string>
+
+1540667516 source:c:\users\kapil\desktop\c++\c_plus_plus\exercise\chapter13\ex-19-trivia\src\question.cpp
+	"Question.h"
+

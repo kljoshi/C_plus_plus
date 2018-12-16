@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1543161136 source:c:\users\kapil\desktop\c++\c_plus_plus\exercise\chapter14\ex-14-parkingticketsimulator\parkingtic\main.cpp
+	<iostream>
+	<ParkedCar.h>
+	<PoliceOfficer.h>
+	<ParkingMeter.h>
+
+1543116523 c:\users\kapil\desktop\c++\c_plus_plus\exercise\chapter14\ex-14-parkingticketsimulator\parkingtic\include\parkedcar.h
+	<string>
+
+1543161641 c:\users\kapil\desktop\c++\c_plus_plus\exercise\chapter14\ex-14-parkingticketsimulator\parkingtic\include\parkingticket.h
+	"ParkedCar.h"
+	"ParkingMeter.h"
+	<iostream>
+	<cstdlib>
+	<math.h>
+
+1543116495 c:\users\kapil\desktop\c++\c_plus_plus\exercise\chapter14\ex-14-parkingticketsimulator\parkingtic\include\parkingmeter.h
+
+1543115363 source:c:\users\kapil\desktop\c++\c_plus_plus\exercise\chapter14\ex-14-parkingticketsimulator\parkingtic\src\parkedcar.cpp
+
+1543115343 source:c:\users\kapil\desktop\c++\c_plus_plus\exercise\chapter14\ex-14-parkingticketsimulator\parkingtic\src\parkingmeter.cpp
+
+1543116463 source:c:\users\kapil\desktop\c++\c_plus_plus\exercise\chapter14\ex-14-parkingticketsimulator\parkingtic\src\parkingticket.cpp
+
+1543113593 source:c:\users\kapil\desktop\c++\c_plus_plus\exercise\chapter14\ex-14-parkingticketsimulator\parkingtic\src\policeofficer.cpp
+
+1543161720 c:\users\kapil\desktop\c++\c_plus_plus\exercise\chapter14\ex-14-parkingticketsimulator\parkingtic\include\policeofficer.h
+	"ParkedCar.h"
+	"ParkingMeter.h"
+	"ParkingTicket.h"
+

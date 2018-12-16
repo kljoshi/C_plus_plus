@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1541382761 source:c:\users\kapil\desktop\c++\c_plus_plus\exercise\chapter14\ex-8-dateclass\main\src\date.cpp
+	"Date.h"
+	<iostream>
+	<string>
+
+1541382289 c:\users\kapil\desktop\c++\c_plus_plus\exercise\chapter14\ex-8-dateclass\main\include\date.h
+	<string>
+	<iostream>
+
+1541382359 source:c:\users\kapil\desktop\c++\c_plus_plus\exercise\chapter14\ex-8-dateclass\main\main.cpp
+	<iostream>
+	"Date.h"
+

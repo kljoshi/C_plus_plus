@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1541131416 source:c:\users\kapil\desktop\c++\c_plus_plus\exercise\chapter14\ex-1-numclass\main\main.cpp
+	<iostream>
+	"Number.h"
+
+1541133281 source:c:\users\kapil\desktop\c++\c_plus_plus\exercise\chapter14\ex-1-numclass\main\src\number.cpp
+	"Number.h"
+	<iostream>
+
+1541132373 c:\users\kapil\desktop\c++\c_plus_plus\exercise\chapter14\ex-1-numclass\main\include\number.h
+	<string>
+

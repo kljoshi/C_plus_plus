@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1544398819 source:c:\users\kapil\desktop\c++\c_plus_plus\exercise\chapter15\employeeandproductionworker\main.cpp
+	<iostream>
+	"ProductionWorker.h"
+
+1544398790 c:\users\kapil\desktop\c++\c_plus_plus\exercise\chapter15\employeeandproductionworker\include\productionworker.h
+	"Employee.h"
+
+1544398643 c:\users\kapil\desktop\c++\c_plus_plus\exercise\chapter15\employeeandproductionworker\include\employee.h
+	<string>
+
+1544398844 source:c:\users\kapil\desktop\c++\c_plus_plus\exercise\chapter15\employeeandproductionworker\src\employee.cpp
+	"Employee.h"
+
+1544398919 source:c:\users\kapil\desktop\c++\c_plus_plus\exercise\chapter15\employeeandproductionworker\src\productionworker.cpp
+	"ProductionWorker.h"
+

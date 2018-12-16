@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1544466126 source:c:\users\kapil\desktop\c++\c_plus_plus\exercise\chapter15\bankaccount\main.cpp
+	<iostream>
+	"Saving.h"
+
+1544466048 c:\users\kapil\desktop\c++\c_plus_plus\exercise\chapter15\bankaccount\include\saving.h
+	"Account.h"
+
+1544465073 c:\users\kapil\desktop\c++\c_plus_plus\exercise\chapter15\bankaccount\include\account.h
+
+1544757072 source:c:\school_stuff\c++\c_plus_plus\exercise\chapter15\bankaccount\main.cpp
+	<iostream>
+	"Saving.h"
+
+1544727986 c:\school_stuff\c++\c_plus_plus\exercise\chapter15\bankaccount\include\saving.h
+	"Account.h"
+
+1544728488 c:\school_stuff\c++\c_plus_plus\exercise\chapter15\bankaccount\include\account.h
+
+1544727685 source:c:\school_stuff\c++\c_plus_plus\exercise\chapter15\bankaccount\src\account.cpp
+	"Account.h"
+
+1544757204 source:c:\school_stuff\c++\c_plus_plus\exercise\chapter15\bankaccount\src\saving.cpp
+	"Saving.h"
+	<iostream>
+
