@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1545100958 source:d:\c++\c_plus_plus\exercise\chapter16\ex-16-exceptionproject\main.cpp
+	<iostream>
+	"ProductionWorker.h"
+
+1545070659 d:\c++\c_plus_plus\exercise\chapter16\ex-16-exceptionproject\include\productionworker.h
+	"Employee.h"
+	<iostream>
+
+1545099858 d:\c++\c_plus_plus\exercise\chapter16\ex-16-exceptionproject\include\employee.h
+	<string>
+
+1545070347 source:d:\c++\c_plus_plus\exercise\chapter16\ex-16-exceptionproject\src\productionworker.cpp
+	"ProductionWorker.h"
+	<iostream>
+
+1545068422 source:d:\c++\c_plus_plus\exercise\chapter16\ex-16-exceptionproject\src\employee.cpp
+	"Employee.h"
+	<iostream>
+
